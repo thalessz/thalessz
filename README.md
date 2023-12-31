@@ -1,7 +1,6 @@
-## Oiii! Meu nome é Thales
+## Oiii! Meu nome é Thales 👋
 - Estudante do IFSP- CPV
-- Em constante aprendizado
-- Backend? 
+
 <div>
   <a href="https://github.com/thalessz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalessz&theme=cobalt&show_icons=true&hide_border=true&count_private=true"/>
@@ -27,6 +26,8 @@
 
 ##
 
+>"Seja forte e corajoso! Não se apavore, nem desanime, pois o Senhor, o seu Deus, estará com você por onde você andar"
+Josué 1:9
 
 <!--
 **thalessz/thalessz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
