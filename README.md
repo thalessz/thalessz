@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Thales-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Thales-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Thales-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+<img align="center" alt="Thales-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="right" alt="gif" height="200" widht="150" src="https://i.pinimg.com/originals/e0/a8/86/e0a8869f640eb4c43aeb1b49d02fdab5.gif">
   
 </div>
