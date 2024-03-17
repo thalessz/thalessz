@@ -1,4 +1,4 @@
-## Oiii! Meu nome é Thales 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains-Mono&pause=1000&color=777FFF&random=false&width=435&lines=Oi!+Meu+nome+%C3%A9+Thales!+" alt="Typing SVG" /></a>
 - Estudante do IFSP- CPV
 
 <div>
