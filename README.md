@@ -1,5 +1,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains-Mono&pause=1000&color=777FFF&random=false&width=435&lines=Oi!+Meu+nome+%C3%A9+Thales!+" alt="Typing SVG" /></a>
-- Estudante do IFSP- CPV
 
 <div>
   <a href="https://github.com/thalessz">
@@ -16,8 +15,12 @@
 <img align="center" alt="Thales-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 <img align="center" alt="Thales-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
 <img align="center" alt="Thales-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="center" alt="Thales-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg">
 <img align="center" alt="Thales-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img align="center" alt="Thales-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg">
 <img align="center" alt="Thales-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="Thales-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+<img align="center" alt="Thales-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="right" alt="gif" height="200" widht="150" src="https://i.pinimg.com/originals/e0/a8/86/e0a8869f640eb4c43aeb1b49d02fdab5.gif">
   
 </div>
