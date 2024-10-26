@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sup, I'm Thales, a backend developer with a strong passion for Linux, particularly Manjaro and Open Source software philosophy. Always looking to expand my skills and explore new challenges. Also, I'm from Brazil and a Computer Technician<br>🌱 I’m currently learning Django
+Sup, I'm Thales, a backend developer with a strong passion for Linux, particularly Manjaro and Open Source software philosophy. Always looking to expand my skills and explore new challenges.<br>
 
 
 ## 🌐 Socials:
